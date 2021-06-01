@@ -9,4 +9,9 @@ do not base your product on this! :)
 This is UNOFFICIAL and EXPERIMENTAL, and not recommended at this time.
 _Caveat emptor!_
 
-This will (probably) eventually become part of a blog post.
+### Medium Blog
+
+This is part of a Medium blog post, which can be found here:
+
+https://feywind.medium.com/using-cloud-pub-sub-on-node-js-from-kotlin-js-46ad79739bbf
+
